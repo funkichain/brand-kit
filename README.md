@@ -30,7 +30,7 @@ Located in [/fonts](fonts/).
 
 ### Logos
 
-<img src="logos/Funki_Logo_Green.png" alt="InProducts" width="70%" height="70%" />
+<img src="logos/Funki_Logo_Official.png" alt="InProducts" width="70%" height="70%" />
 
 ### Symbols
 
