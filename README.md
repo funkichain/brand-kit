@@ -36,7 +36,7 @@ Located in [/fonts](fonts/).
 
 | Symbol                                                                                                |
 | ----------------------------------------------------------------------------------------------------- |
-| <img src="symbols/Funki_Symbol_Green.png" alt="SymbolGreen" width="200" height="200" />               |
+| <img src="symbols/Funki_Symbol_Official.png" alt="SymbolOfficial" width="200" height="200" />         |
 | <img src="symbols/Funki_Symbol_White.png" alt="SymbolWhite" width="200" height="200" />               |
 | <img src="symbols/Funki_Symbol_Purple.png" alt="SymbolPurple" width="200" height="200" />             |
 | <img src="symbols/Funki_Symbol_Yellow.png" alt="SymbolYellow" width="200" height="200" />             |
