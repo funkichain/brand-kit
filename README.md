@@ -16,8 +16,7 @@ Funki is a secure, affordable, and developer-friendly Ethereum L2 designed to on
 <!-- Badge row 2 - links and profiles -->
 
 [![Website funkichain.com](https://img.shields.io/website-up-down-green-red/https/funkichain.org.svg)](https://funkichain.com)
-[![Docs](https://img.shields.io/badge/docs-up-green)](https://funki-docs.sipher.gg/)
-[![Discord](https://img.shields.io/discord/1067165013397213286?label=discord)](https://funkichain.com/discord)
+[![Docs](https://img.shields.io/badge/docs-up-green)](https://docs-funki.sipher.gg/docs/)
 [![Twitter Funki](https://img.shields.io/twitter/follow/funki?style=social)](https://twitter.com/funkichain)
 
 <!-- Badge row 3 - detailed status -->
