@@ -16,7 +16,7 @@ Funki is a secure, affordable, and developer-friendly Ethereum L2 designed to on
 <!-- Badge row 2 - links and profiles -->
 
 [![Website funkichain.com](https://img.shields.io/website-up-down-green-red/https/funkichain.org.svg)](https://funkichain.com)
-[![Docs](https://img.shields.io/badge/docs-up-green)](https://docs-funki.sipher.gg/docs/)
+[![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.funkichain.com)
 [![Twitter Funki](https://img.shields.io/twitter/follow/funki?style=social)](https://twitter.com/funkichain)
 
 <!-- Badge row 3 - detailed status -->
@@ -30,14 +30,14 @@ Located in [/fonts](fonts/).
 
 ### Logos
 
-![InProduct](logos/Funki_Logo_Yellow.png)
+<img src="logos/Funki_Logo_Yellow.png" alt="InProducts" width="70%" height="70%" />
 
 ### Symbols
 
-| Symbol                                                       |
-| ------------------------------------------------------------ |
-| ![SymbolGreen](symbols/Funki_Symbol_Green.png)               |
-| ![SymbolWhite](symbols/Funki_Symbol_White.png)               |
-| ![SymbolPurple](symbols/Funki_Symbol_Purple.png)             |
-| ![SymbolYellow](symbols/Funki_Symbol_Yellow.png)             |
-| ![SymbolYellowAndPink](symbols/Funki_Symbol_Yellow&Pink.png) |
+| Symbol                                                                                                |
+| ----------------------------------------------------------------------------------------------------- |
+| <img src="symbols/Funki_Symbol_Green.png" alt="SymbolGreen" width="200" height="200" />               |
+| <img src="symbols/Funki_Symbol_White.png" alt="SymbolWhite" width="200" height="200" />               |
+| <img src="symbols/Funki_Symbol_Purple.png" alt="SymbolPurple" width="200" height="200" />             |
+| <img src="symbols/Funki_Symbol_Yellow.png" alt="SymbolYellow" width="200" height="200" />             |
+| <img src="symbols/Funki_Symbol_Yellow&Pink.png" alt="SymbolYellowAndPink" width="200" height="200" /> |
