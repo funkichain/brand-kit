@@ -1,4 +1,4 @@
-![Funki](logo.webp)
+![Funki](metadata/web-metadata-img.webp)
 
 # Funki brand-kit
 
